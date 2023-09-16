@@ -8,7 +8,7 @@
 
 # The Road Warrior - An Itinerary Management Startup
 ## Introduction
-The Road Warrior wants to build the next generation online trip management dashboard to allow travelers to see all of their existing reservations organized by trip either online (web) or through their mobile device.
+The Road Warrior wants to build the next-generation online trip management dashboard to allow travelers to see all of their existing reservations organized by trip either online (web) or through their mobile device.
 
 ## Requirements
 - Poll email looking for travel-related emails
@@ -20,6 +20,5 @@ The Road Warrior wants to build the next generation online trip management dashb
 - Users should also be able to share their trip information by interfacing with standard social media sites or allowing targeted people to view your trip.
 - Richest user interface possible across all deployment platforms
 - Provide end-of-year summary reports for users with a wide range of metrics about their travel usage
-- Road Warrior gathers analytical data from users trips for various purposes - travel trends, locations, airline and hotel vendor preferences, cancellation and update frequency, and so on.
-
+- Road Warrior gathers analytical data from users' trips for various purposes - travel trends, locations, airline and hotel vendor preferences, cancellation and update frequency, and so on.
 
