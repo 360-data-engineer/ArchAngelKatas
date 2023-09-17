@@ -1,5 +1,5 @@
 # O'Reilly Architectural Katas 2023
-#### Team ArchAngelKatas
+#### Team DataLeads
 - Gopi Krishna
 - K S Sreenidhi
 - Shanmukh Gajula
