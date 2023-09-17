@@ -22,3 +22,20 @@ The Road Warrior wants to build the next-generation online trip management dashb
 - Provide end-of-year summary reports for users with a wide range of metrics about their travel usage
 - Road Warrior gathers analytical data from users' trips for various purposes - travel trends, locations, airline and hotel vendor preferences, cancellation and update frequency, and so on.
 
+## User Journey
+The following flowchart describes a user's journey end-to-end covering major features.
+![user_journey](/Diagrams/user_journey.png)
+*Figure 1 User Journey*
+
+## Architecture Walkthrough
+The Road Warrior has been designed by adopting Microservices Architecture (as discussed in the ADRS/ADR_1_microservices.md). The choice of containers & their services mapping have been done basis the actor-actions approach. We have two actors - The user and the system. Their actions have been described in the image below.
+![actors_actions](/Diagrams/actors_actions.png)
+*Figure 2 Actors-Actions Mapping*
+
+The high-level diagram of server-client interaction via Containers has been attached below. 
+![high_level_arch](/Diagrams/high_level.png)
+
+*Figure 3 Server-Client Interaction via Containers*
+The low-level diagram explaining the client-server interaction via Containers' services has been attached below.
+![architecture](/Diagrams/architecture.png)
+*Figure 3 Server-Client Interaction via Containers*
