@@ -1,6 +1,7 @@
 # ADR N: brief decision title 
 Analyze the technological, cost-related, and project local forces that influence the design decision.
-
+## Date:
+Date of Discussion 
 
 ## Status
 [Proposed | Accepted | Deprecated | Superseded]
