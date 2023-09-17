@@ -33,14 +33,18 @@ We will regard the email used as the email ID that is linked with any trips book
 The Road Warrior has been designed by adopting Microservices Architecture (as discussed in the /ADRS/ADR_1_microservices.md). 
 The choice of containers & their services mapping have been done basis the actor-actions approach.
 We have two actors - The user and the system. 
+
+### Actors-Actions Approach
 Their actions have been described in the image below.
 ![actors_actions](/Diagrams/actors_actions.png)
 *Figure 2 Actors-Actions Mapping*
 
+### High-level diagram
 The high-level diagram of server-client interaction via Containers has been attached below. 
 ![high_level_arch](/Diagrams/high_level.png)
 *Figure 3 Server-Client Interaction via Containers*
 
+### Low-level diagram
 The low-level diagram explaining the client-server interaction via Containers' services has been attached below.
 ![architecture](/Diagrams/architecture.png)
 *Figure 4 Server-Client Interaction via Services*
