@@ -28,7 +28,7 @@ The following flowchart describes a user's journey end-to-end covering major fea
 While the user signs up, we will be considering the email used as the email ID that's associated with all trips booked online and we seek a one-time consent for email inbox crawling. The user can always choose to enable/disable the email crawl access via the Profile section on the app. 
 In case, the email ID used during sign-up isn't associated with a particular booking, then the user can always forward such booking-related updates to The Road Warrior's inbox for further processing and itinerary updates.
 We also accommodate complete, end-to-end manual itinerary creation by the user.
-
+![user_journey](/Diagrams/user_journey.png)
 *Figure 1 User Journey*
 
 ## Architecture Walkthrough
